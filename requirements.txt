@@ -1,0 +1,4 @@
+gradio
+librosa == 0.10.1
+numpy
+tensorflow == 2.15.0
